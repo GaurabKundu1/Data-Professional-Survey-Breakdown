@@ -34,4 +34,14 @@ We Want to Know the Following :
 
 12. Level of Difficulty to Switch into Data Profession.
 
+## The Report
 
+The Report Consists of 2 Dashboards, Below is a Glimpse of the Dashboards:
+
+### Dashboard 1
+
+<img src="https://github.com/GaurabKundu1/US-Sales-Analysis-Dashboard/assets/86102231/785f42bc-f79e-4d6c-9840-c5ec93964383">
+
+### Dashboard 2
+
+<img src="https://github.com/GaurabKundu1/US-Sales-Analysis-Dashboard/assets/86102231/385af900-0b4c-4841-abbb-35b87feaf51f">

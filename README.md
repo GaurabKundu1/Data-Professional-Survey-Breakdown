@@ -1,2 +1,3 @@
-# Data-Professional-Survey-Breakdown
-A Power BI Report created by me to Breakdown the Data Professional Survey conducted by Alex the Analyst 
+# Data Professional Survey Breakdown
+
+## A Power BI Report Created by [Gaurab Kundu](https://www.linkedin.com/in/gaurab-kundu/)

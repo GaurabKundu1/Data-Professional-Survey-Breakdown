@@ -36,7 +36,9 @@ We Want to Know the Following :
 
 ## The Report
 
-The Report Consists of 2 Dashboards, Below is a Glimpse of the Dashboards:
+The Report Consists of 2 Dashboards, It Can be Accesssible Here : [Data Professional Survey Breakdown](https://www.novypro.com/project/data-professional-survey-breakdown-25) 
+
+Below is a Glimpse of the Dashboards:
 
 ### Dashboard 1
 
